@@ -35,7 +35,7 @@
 <h2>How to Run</h2>
 <ol>
     <li>Clone the repository to your local machine using:</li>
-    <pre><code>git clone https://github.com/Indraprasad1/First-project</code></pre>
+    <pre><code>git clone https://github.com/Indraprasad1/First-project.gitt</code></pre>
     <li>Navigate to the project directory:</li>
     <pre><code>cd your-repo-name</code></pre>
     <li>Run the script using Python:</li>
